@@ -5,7 +5,7 @@
     "price": 129.99,
     "category": "Electronics",
     "description": "Noise-cancelling over-ear headphones",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Wireless+Headphones",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/27/4854814/1.jpg?9542",
     "inStock": true,
     "quantity": 14
   },
@@ -15,7 +15,7 @@
     "price": 199.0,
     "category": "Electronics",
     "description": "Fitness tracking and notifications",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Smart+Watch",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/8490822/1.jpg?7424",
     "inStock": true,
     "quantity": 24
   },
@@ -25,7 +25,7 @@
     "price": 89.5,
     "category": "Electronics",
     "description": "Compact e-ink reader with backlight",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=E-reader",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/33/0044514/1.jpg?2681",
     "inStock": true,
     "quantity": 12
   },
@@ -35,7 +35,7 @@
     "price": 249.99,
     "category": "Home Goods",
     "description": "Barista-quality espresso at home",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Espresso+Machine",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/4824031/1.jpg?2207",
     "inStock": false,
     "quantity": 0
   },
@@ -45,7 +45,7 @@
     "price": 149.0,
     "category": "Home Goods",
     "description": "HEPA filtration for cleaner air",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Air+Purifier",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/3283814/1.jpg?3723",
     "inStock": true,
     "quantity": 8
   },
@@ -55,17 +55,17 @@
     "price": 179.99,
     "category": "Home Goods",
     "description": "Non-stick, oven-safe, 10-piece set",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Cookware+Set",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/4395031/1.jpg?8058",
     "inStock": true,
     "quantity": 20
   },
   {
     "id": "p-007",
-    "name": "Mystery Thriller Novel",
+    "name": "A Silent Death",
     "price": 14.99,
     "category": "Books",
     "description": "A gripping page-turner",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Mystery+Thriller+Novel",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/1607104/1.jpg?4984",
     "inStock": true,
     "quantity": 50
   },
@@ -75,7 +75,7 @@
     "price": 24.0,
     "category": "Books",
     "description": "30-minute recipes for busy nights",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Cookbook+Quick+Meals",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/2253722/1.jpg?0062",
     "inStock": true,
     "quantity": 35
   },
@@ -85,7 +85,7 @@
     "price": 29.99,
     "category": "Accessories",
     "description": "Non-slip, eco-friendly",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Yoga+Mat",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/174366/1.jpg?9268",
     "inStock": true,
     "quantity": 60
   },
@@ -95,7 +95,7 @@
     "price": 19.99,
     "category": "Accessories",
     "description": "Insulated stainless steel",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Water+Bottle",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/4711062/1.jpg?7534",
     "inStock": true,
     "quantity": 80
   },
@@ -105,7 +105,7 @@
     "price": 22.0,
     "category": "Apparel",
     "description": "100% cotton, unisex",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Graphic+T-Shirt",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/3812963/1.jpg?6959",
     "inStock": true,
     "quantity": 40
   },
@@ -115,7 +115,7 @@
     "price": 49.99,
     "category": "Apparel",
     "description": "Cozy fleece, classic fit",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Hoodie",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/7294922/1.jpg?5359",
     "inStock": false,
     "quantity": 0
   },
@@ -125,7 +125,7 @@
     "price": 59.99,
     "category": "Electronics",
     "description": "Portable with deep bass",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Bluetooth+Speaker",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/1412592/1.jpg?2876",
     "inStock": true,
     "quantity": 18
   },
@@ -145,7 +145,7 @@
     "price": 12.99,
     "category": "Accessories",
     "description": "Pack of 3, dotted pages",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Notebook+Set",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/05/3025082/1.jpg?6340",
     "inStock": true,
     "quantity": 100
   },
@@ -155,7 +155,7 @@
     "price": 27.5,
     "category": "Home Goods",
     "description": "Lavender and vanilla, set of 2",
-    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Scented+Candles",
+    "imageUrl": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/6644214/1.jpg?6981",
     "inStock": true,
     "quantity": 30
   }
