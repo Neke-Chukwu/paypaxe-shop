@@ -1,0 +1,162 @@
+[
+  {
+    "id": "p-001",
+    "name": "Wireless Headphones",
+    "price": 129.99,
+    "category": "Electronics",
+    "description": "Noise-cancelling over-ear headphones",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Wireless+Headphones",
+    "inStock": true,
+    "quantity": 14
+  },
+  {
+    "id": "p-002",
+    "name": "Smart Watch",
+    "price": 199.0,
+    "category": "Electronics",
+    "description": "Fitness tracking and notifications",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Smart+Watch",
+    "inStock": true,
+    "quantity": 24
+  },
+  {
+    "id": "p-003",
+    "name": "E-reader",
+    "price": 89.5,
+    "category": "Electronics",
+    "description": "Compact e-ink reader with backlight",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=E-reader",
+    "inStock": true,
+    "quantity": 12
+  },
+  {
+    "id": "p-004",
+    "name": "Espresso Machine",
+    "price": 249.99,
+    "category": "Home Goods",
+    "description": "Barista-quality espresso at home",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Espresso+Machine",
+    "inStock": false,
+    "quantity": 0
+  },
+  {
+    "id": "p-005",
+    "name": "Air Purifier",
+    "price": 149.0,
+    "category": "Home Goods",
+    "description": "HEPA filtration for cleaner air",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Air+Purifier",
+    "inStock": true,
+    "quantity": 8
+  },
+  {
+    "id": "p-006",
+    "name": "Cookware Set",
+    "price": 179.99,
+    "category": "Home Goods",
+    "description": "Non-stick, oven-safe, 10-piece set",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Cookware+Set",
+    "inStock": true,
+    "quantity": 20
+  },
+  {
+    "id": "p-007",
+    "name": "Mystery Thriller Novel",
+    "price": 14.99,
+    "category": "Books",
+    "description": "A gripping page-turner",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Mystery+Thriller+Novel",
+    "inStock": true,
+    "quantity": 50
+  },
+  {
+    "id": "p-008",
+    "name": "Cookbook: Quick Meals",
+    "price": 24.0,
+    "category": "Books",
+    "description": "30-minute recipes for busy nights",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Cookbook+Quick+Meals",
+    "inStock": true,
+    "quantity": 35
+  },
+  {
+    "id": "p-009",
+    "name": "Yoga Mat",
+    "price": 29.99,
+    "category": "Accessories",
+    "description": "Non-slip, eco-friendly",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Yoga+Mat",
+    "inStock": true,
+    "quantity": 60
+  },
+  {
+    "id": "p-010",
+    "name": "Water Bottle",
+    "price": 19.99,
+    "category": "Accessories",
+    "description": "Insulated stainless steel",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Water+Bottle",
+    "inStock": true,
+    "quantity": 80
+  },
+  {
+    "id": "p-011",
+    "name": "Graphic T-Shirt",
+    "price": 22.0,
+    "category": "Apparel",
+    "description": "100% cotton, unisex",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Graphic+T-Shirt",
+    "inStock": true,
+    "quantity": 40
+  },
+  {
+    "id": "p-012",
+    "name": "Hoodie",
+    "price": 49.99,
+    "category": "Apparel",
+    "description": "Cozy fleece, classic fit",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Hoodie",
+    "inStock": false,
+    "quantity": 0
+  },
+  {
+    "id": "p-013",
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "category": "Electronics",
+    "description": "Portable with deep bass",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Bluetooth+Speaker",
+    "inStock": true,
+    "quantity": 18
+  },
+  {
+    "id": "p-014",
+    "name": "Desk Lamp",
+    "price": 34.99,
+    "category": "Home Goods",
+    "description": "LED with adjustable brightness",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Desk+Lamp",
+    "inStock": true,
+    "quantity": 25
+  },
+  {
+    "id": "p-015",
+    "name": "Notebook Set",
+    "price": 12.99,
+    "category": "Accessories",
+    "description": "Pack of 3, dotted pages",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Notebook+Set",
+    "inStock": true,
+    "quantity": 100
+  },
+  {
+    "id": "p-016",
+    "name": "Scented Candles",
+    "price": 27.5,
+    "category": "Home Goods",
+    "description": "Lavender and vanilla, set of 2",
+    "imageUrl": "https://placehold.co/600x400/000000/FFFFFF?text=Scented+Candles",
+    "inStock": true,
+    "quantity": 30
+  }
+]
