@@ -1,5 +1,2 @@
-../node_modules
-.DS_Store
-.node_modules
-../paypaxeShop/node_modules
+# This file is used to ignore files and directories in the PayPaxe Shop project.
 node_modules
